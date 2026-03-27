@@ -1,0 +1,7 @@
+demo/node_modules/
+demo/dist/
+.git_demo_backup/
+.DS_Store
+*.log
+.env
+.env.*
